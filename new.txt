@@ -1,0 +1,9 @@
+Name: Egor Astafev
+Age: 28 years
+Country: Georgia
+City: Batumi
+Education: College of Moscow Technological Institute
+Direction of training :information systems and programming
+Career objective: QA engineer
+Desired salary: 700$
+PhoneNumber: +995591041739
