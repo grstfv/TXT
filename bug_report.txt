@@ -1,0 +1,23 @@
+Bug ID:
+    Id number: 7
+    Name: CART - Uneable to add new item to my cart
+    Reporter: Egor A.
+    Submit_date: 09/03/2023
+Bug overview:
+    Summary: When my cart contains one item, I can't add a second item using the 'Add to Cart' button on the product page
+    URL: www.example.com/product
+    Attachment: www.example.com/screenshot
+Environment:
+    Platform: laptop
+    Operation system: Ubuntu 22.04
+    Browser: Google chrome
+Bug details: 
+    Steps to reproduce: add one item to cart > go to product list > add new item to cart via 'Add to cart' button > go to cart
+    Expected result: The cart should contain 2 items
+    Actual result: the cart contains only 1 item
+    Description: -
+Bug tracking:
+    Severity: major
+    Assigned to: - 
+    Priority: high
+Notes: -
