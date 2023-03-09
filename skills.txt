@@ -1,0 +1,19 @@
+hardskills:
+	testing theory;
+	test design techniques;
+	client-server architecture;
+	HTTP request methods;
+	SQL;
+	JSON;
+	XML;
+	HTML;
+        Devtools;
+	Postman;
+	CSS 
+softskills:
+	ambition;
+	focus;
+	timemenegement;
+	friendliness;
+	attention to details;
+	communication skills.
